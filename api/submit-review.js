@@ -1,6 +1,6 @@
 // api/submit-review.js (Vercel Serverless Function)
 
-const { createClient } = require('@supabase/supabase-js'); 
+const { createClient } = require('@supabase/supabase-js');  
 // Vercel utilise le même mécanisme de process.env que Netlify
 
 const SUPABASE_URL = process.env.SUPABASE_URL;
