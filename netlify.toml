@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'Netlify build complete'" 
+  functions = "netlify/functions"
