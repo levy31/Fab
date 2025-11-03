@@ -1,0 +1,8 @@
+{
+  "name": "supabase-wix-integration",
+  "version": "1.0.0",
+  "description": "Dependencies for Netlify functions",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.3" 
+  }
+}
